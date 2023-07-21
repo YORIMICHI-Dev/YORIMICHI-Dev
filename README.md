@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=YORIMICHI-Dev&label=PROFILE+VIEWS)
 ![YORIMICHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=YORIMICHI-dev&show_icons=true&theme=transparent)
 <!--
 **YORIMICHI-Dev/YORIMICHI-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
