@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm YORIMICHI-Dev</h1>
 
-<h3 align="left">About Me</h3>
+<h2 align="left">About Me</h2>
 <p align="left">
 I'm a dedicated Backend Developer with a passion for building efficient and scalable applications. Although I'm in my 2nd year of professional development, I've been fortunate enough to immerse myself in a wide array of projects. These experiences have instilled in me a robust understanding of software design and application architecture.
 </p>
@@ -21,7 +21,7 @@ Moreover, with AI marking its significance in today's tech world, I'm gearing up
 In the dynamic realm of technology, I firmly believe in continuous learning. My enthusiasm and commitment drive me to embrace the ever-present challenges and opportunities in our field.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
@@ -43,7 +43,7 @@ In the dynamic realm of technology, I firmly believe in continuous learning. My 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 </p>
 
-<h3 align="left">Github Activaton:</h3>
+<h2 align="left">Github Activity:</h2>
 
 [![YORIMICHI-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=YORIMICHI-dev)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YORIMICHI-dev&layout=compact)
