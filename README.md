@@ -50,7 +50,6 @@ In the dynamic realm of technology, I firmly believe in continuous learning. My 
 [![YORIMICHI-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=YORIMICHI-dev)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YORIMICHI-dev&layout=compact)
 
-<h2 align="left">My Work</h2>
 <h3 align="left">Matome Customizer</h3>
 <p align="left">
 Now Developing...
