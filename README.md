@@ -49,3 +49,22 @@ In the dynamic realm of technology, I firmly believe in continuous learning. My 
 
 [![YORIMICHI-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=YORIMICHI-dev)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YORIMICHI-dev&layout=compact)
+
+<h2 align="left">My Work</h2>
+<h3 align="left">Matome Customizer</h3>
+<p align="left">
+Now Developing...
+</p>
+<h3 align="left">Chat GPT Clone</h3>
+<p align="left">
+Chat-App is a chatbot application developed with OpenAI's API. It employs a user-friendly interface and leverages the power of artificial intelligence to provide dynamic and interactive conversation experiences. <br><br>
+Github URL: (https://github.com/YORIMICHI-Dev/chat-app)
+</p>
+<h3 align="left">Blog Site</h3>
+<p align="left">
+  The "Blog Site" serves as a digital diary where I chronicle valuable insights and experiences derived from my daily professional endeavors. It acts as a reservoir of knowledge, wherein I jot down useful findings, best practices, and solutions that have been beneficial in the course of my work. By documenting these, not only do I have a reference point for myself but also share valuable knowledge with peers and other professionals who may come across similar challenges.
+<br><br>
+Web URL: (https://yorimichi-dev.com/)<br>
+Github URL: (https://github.com/YORIMICHI-Dev/chat-app)
+</p>
+
