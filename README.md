@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm YORIMICHI-Dev</h1>
-
 <h2 align="left">About Me</h2>
 <p align="left">
 I'm a dedicated Backend Developer with a passion for building efficient and scalable applications. Although I'm in my 2nd year of professional development, I've been fortunate enough to immerse myself in a wide array of projects. These experiences have instilled in me a robust understanding of software design and application architecture.
