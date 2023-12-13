@@ -60,8 +60,8 @@ Github URL: (https://github.com/YORIMICHI-Dev/chat-app)
 <h3 align="left">Blog Site</h3>
 <p align="left">
   The "Blog Site" serves as a digital diary where I chronicle valuable insights and experiences derived from my daily professional endeavors. It acts as a reservoir of knowledge, wherein I jot down useful findings, best practices, and solutions that have been beneficial in the course of my work. By documenting these, not only do I have a reference point for myself but also share valuable knowledge with peers and other professionals who may come across similar challenges.
+  Blog site was delete from AWS, however small dashboard is building now.
 <br><br>
-Web URL: (https://yorimichi-dev.com/)<br>
 Github URL: (https://github.com/YORIMICHI-Dev/Blog)https://github.com/YORIMICHI-Dev/Blog)
 </p>
 
