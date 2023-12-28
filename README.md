@@ -57,7 +57,7 @@ Now Developing...
 <h3 align="left">Dashboard</h3>
 <p align="left">
 My profile, skill, history and so on are published in dashboard.<br><br>
-Vercel URL: (https://vercel.com/yorimichi-dev/dashboard-daisuke)<br><br>
+Vercel URL: (https://vercel.com/yorimichi-dev/dashboard-daisuke)<br>
 Github URL: (https://github.com/YORIMICHI-Dev/dashboard)
 </p>
 <h3 align="left">Chat GPT Clone</h3>
