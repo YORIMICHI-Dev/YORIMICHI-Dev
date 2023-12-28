@@ -31,6 +31,7 @@ In the dynamic realm of technology, I firmly believe in continuous learning. My 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" /> 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" alt="typescript" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
 
@@ -51,6 +52,13 @@ In the dynamic realm of technology, I firmly believe in continuous learning. My 
 <h3 align="left">Matome Customizer</h3>
 <p align="left">
 Now Developing...
+
+</p>
+<h3 align="left">Dashboard</h3>
+<p align="left">
+My profile, skill, history and so on are published in dashboard.<br><br>
+Vercel URL: (https://vercel.com/yorimichi-dev/dashboard-daisuke)
+Github URL: (https://github.com/YORIMICHI-Dev/dashboard)
 </p>
 <h3 align="left">Chat GPT Clone</h3>
 <p align="left">
